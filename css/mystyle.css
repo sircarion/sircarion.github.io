@@ -1,0 +1,18 @@
+.icon-fab{
+    font-size: 300%;
+}
+.fixed {
+    position: fixed; /* Posicionamento fixo na tela */
+    bottom: 0; /* Alinhamento à parte inferior */
+    right: 0; /* Alinhamento à direita */
+    z-index: 1000; /* Garante que o elemento fique acima de outros elementos */
+  }
+  
+  .text-end {
+    text-align: right; /* Alinha o texto à direita */
+  }
+  
+  .p-2 {
+    padding: 2px; /* Adiciona espaçamento interno */
+  }
+  
